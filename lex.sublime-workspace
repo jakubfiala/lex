@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"max",
+				"max-width"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
 				"marg",
 				"margin-top"
 			],
@@ -44,10 +60,6 @@
 				"function"
 			],
 			[
-				"max",
-				"max-height"
-			],
-			[
 				"req",
 				"requestAnimationFrame"
 			],
@@ -60,10 +72,6 @@
 				"gainNode"
 			],
 			[
-				"in",
-				"inline-block"
-			],
-			[
 				"ma",
 				"margin-right"
 			],
@@ -74,10 +82,6 @@
 			[
 				"mar",
 				"margin-bottom"
-			],
-			[
-				"padd",
-				"padding-top"
 			],
 			[
 				"font-s",
@@ -126,10 +130,6 @@
 			[
 				"bac",
 				"background-position"
-			],
-			[
-				"ba",
-				"background-attachment"
 			],
 			[
 				"pad",
@@ -589,6 +589,8 @@
 	],
 	"file_history":
 	[
+		"/Users/jakub/Desktop/CODE/lex/styles.css",
+		"/Users/jakub/Desktop/CODE/lex/index.html",
 		"/Users/jakub/Desktop/CODE/le/styles.css",
 		"/Users/jakub/Desktop/CODE/fiala.uk/styles_new.css",
 		"/Users/jakub/Desktop/CODE/LightExperiments/styles.css",
@@ -714,9 +716,7 @@
 		"/Users/jakub/Downloads/predawn-master/README.md",
 		"/Users/jakub/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/jakub/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/jakub/Dropbox/KRWeb-final/audio/bell.mp3",
-		"/Users/jakub/Dropbox/KRWeb-final/flashplugin-0.5.2.min.js",
-		"/Users/jakub/Desktop/pickevent/test.html"
+		"/Users/jakub/Dropbox/KRWeb-final/audio/bell.mp3"
 	],
 	"find":
 	{
