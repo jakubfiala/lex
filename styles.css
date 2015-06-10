@@ -20,6 +20,7 @@ body, html {
 	color: white;
 	font-family: 'Alegreya Sans', sans-serif;
 	font-size: 15px;
+    text-align: center;
 }
 
 body::-webkit-scrollbar { width: 0 !important; }
@@ -27,5 +28,19 @@ body::-webkit-scrollbar { width: 0 !important; }
 header {
     text-align: center;
     font-size: 3em;
-    margin-top: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: text-shadow 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+header:hover {
+    text-shadow: 0em 0em 0.4em white;
+}
+
+#vid {
+    display: inline;
+    max-width: 1280px;
+    width: 100%;
 }
